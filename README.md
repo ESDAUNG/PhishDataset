@@ -9,3 +9,7 @@ Legitimate Dataset : Legitimate URLs were prepared by the following steps:
 Note that URLs in IP2Location consist of both legitimate and phishing URLs; however, we assume that most URLs are legitimate. 
 
 A balanced dataset with 10,000 legitimate and 10,000 phishing URLs and an imbalanced dataset with 50,000 legitimate and 5,000 phishing URLs were prepared.
+
+Label 0 represents Legitimate URL
+
+Label 1 represents Phishing URL
