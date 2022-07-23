@@ -1,5 +1,5 @@
 # PhishDataset
-Segmentation-based Phishing URL Detection
+
 This is the dataset distributed in my paper "Segmentation-based Phishing URL Detection".
 The paper is published in WI-IAT '21: IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology. Paper is available @.https://doi.org/10.1145/3486622.3493983
 
